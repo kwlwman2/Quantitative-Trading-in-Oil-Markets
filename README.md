@@ -35,11 +35,16 @@ Buy when volatility is low, sell when volatility is high.
 
 ## Highlight of Results
 *********************
+x: date, y: sharpe ratio of the trading strategy
+
 ### 1. Mean reversion strategy
-![meanrevertingstrategy]()
+![meanrevertingstrategy](https://github.com/kwlwman2/Quantitative-Trading-in-Oil-Markets/blob/main/Final%20Project%20Summary/Images/meanreverting.png)
 ### 2. Momentum
-![meanrevertingstrategy]()
+![meanrevertingstrategy](https://github.com/kwlwman2/Quantitative-Trading-in-Oil-Markets/blob/main/Final%20Project%20Summary/Images/momentum.png)
 ### 3. Vol
-![meanrevertingstrategy]()
+![meanrevertingstrategy](https://github.com/kwlwman2/Quantitative-Trading-in-Oil-Markets/blob/main/Final%20Project%20Summary/Images/vol.png)
+
+For more details, please refer to our python notebook! Thanks.
+
 
 
