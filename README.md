@@ -1,7 +1,7 @@
 # Quantitative-Trading-in-Oil-Markets 
 (USC Class FBE 551, A-grade project)
 
-**Team member**:
+**Team members**:
 Imani Mufti, Jacbo Lee, Leon Man, Roman Sielewicz, Selene Xiang
 
 ## Project Description
