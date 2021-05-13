@@ -6,7 +6,7 @@ Imani Mufti, Jacbo Lee, Leon Man, Roman Sielewicz, Selene Xiang
 
 ## Project Description
 *********************
-This repository is to show case our class project in which we leveraged quantitative trading coccepts and python programming to design a workable quantitative trading strategies in the energy market
+This repository is to showcase our class project in which we leveraged quantitative trading concepts and python programming to design a workable quantitative trading strategies in the energy market, with a goal to profit.
 
 
 ## Introduction
